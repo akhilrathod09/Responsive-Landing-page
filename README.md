@@ -25,3 +25,12 @@ This repository contains the code for a modern Drone Website Landing Page. It fe
 
    ```bash
    git clone https://github.com/akhilrathod09/Responsive-Landing-page.git
+   
+ 2.Open the project folder:
+
+   ```bash
+   cd drone-website
+```
+3. Open the index.html file in your preferred web browser.
+
+   
