@@ -1,5 +1,5 @@
 # Responsive-Landing-page
-(![Drone Website](link-to-your-repository-banner-or-screenshot))
+![Drone Website](link-to-your-repository-banner-or-screenshot)
 
 
 ## Table of Contents
