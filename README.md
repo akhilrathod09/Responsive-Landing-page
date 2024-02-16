@@ -1,5 +1,5 @@
 # Responsive-Landing-page
-![Drone Website](https://responsive-landing-page-fawn.vercel.app/)
+Drone Website
 
 
 ## Table of Contents
